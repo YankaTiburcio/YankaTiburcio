@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+1 - banana
+2 - laranja
+3 - maça
+4 - pera
+5 - abacate
+6 - salada mista 
+
+
+
+
 <!--
 **YankaTiburcio/YankaTiburcio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
